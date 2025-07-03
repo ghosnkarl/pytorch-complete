@@ -6,3 +6,5 @@ venv/
 06_transformers/
 07_projects/
 08_utils/
+
+.DS_Store
