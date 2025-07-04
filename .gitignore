@@ -8,3 +8,5 @@ venv/
 08_utils/
 
 .DS_Store
+
+**/models/**
