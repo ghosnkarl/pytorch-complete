@@ -1,23 +1,23 @@
 # PyTorch - Complete Learning Path
 
-A comprehensive guide to learning PyTorch from basics to advanced applications in deep learning.
+A comprehensive, code-focused guide to learning PyTorch from basics to advanced applications in deep learning.
 
 ## 📚 Overview
 
-This repository provides a structured learning path for PyTorch, one of the most popular deep learning frameworks. It takes you from fundamental tensor operations to advanced applications like transformers, covering essential areas such as computer vision, natural language processing, generative adversarial networks, and image segmentation.
+This repository provides a structured learning path for PyTorch, one of the most popular deep learning frameworks. It takes you from fundamental tensor operations to advanced applications like transformers, covering essential areas such as computer vision, natural language processing, generative adversarial networks, and image segmentation. **This course emphasizes practical implementation and coding skills rather than mathematical derivations**, making it accessible for those who want to build working deep learning systems quickly.
 
 ## 🎯 Learning Objectives
 
 By following this course, you will:
 
-- Master PyTorch's tensor operations and autograd system
-- Build, train, and evaluate neural networks from scratch
-- Implement computer vision models for image recognition
-- Create NLP models for text processing and understanding
-- Design and train generative models including GANs
-- Develop image segmentation solutions
-- Understand and implement transformer architectures
-- Complete real-world projects to consolidate your skills
+- Master PyTorch's tensor operations and autograd system through hands-on coding
+- Build, train, and evaluate neural networks from scratch with minimal math requirements
+- Implement computer vision models for image recognition with practical code examples
+- Create NLP models for text processing with a focus on implementation techniques
+- Design and train generative models including GANs through code-first learning
+- Develop image segmentation solutions with ready-to-use implementations
+- Understand and implement transformer architectures with practical applications
+- Complete real-world projects to consolidate your coding skills in deep learning
 
 ## 📋 Course Structure
 
@@ -82,34 +82,41 @@ python -m venv pytorch-env
 source pytorch-env/bin/activate  # On Windows: pytorch-env\Scripts\activate
 
 # Install dependencies
-pip install torch torchvision torchaudio numpy matplotlib pandas jupyter scikit-learn
+pip install -r requirements.txt
 ```
 
-3. Launch Jupyter Notebook
+3. Start with the basics in `01_basics/01_tensor_operations.ipynb` and progress through the curriculum.
 
-```bash
-jupyter notebook
-```
+## 💻 Code-First Approach
 
-4. Start with the basics in `01_basics/01_tensor_operations.ipynb` and progress through the curriculum.
+This course takes a **code-first approach** to learning deep learning with PyTorch:
+
+- **Implementation Focus**: Each notebook emphasizes working code over mathematical derivations
+- **High-Level Theory**: Just enough theory to understand the concepts without getting lost in equations
+- **Practical Examples**: Learn by doing with code samples you can run, modify and experiment with
+- **Visual Explanations**: Complex concepts are explained with diagrams and visualizations rather than formulas
+- **Ready-to-Use Patterns**: Copy, adapt, and reuse implementation patterns for your own projects
+
+This approach makes deep learning accessible to developers who want to build practical applications without requiring an advanced mathematics background.
 
 ## 📊 Learning Path Progression
 
 For optimal learning, follow this recommended sequence:
 
-1. Complete the notebooks in `01_basics/` to build a solid foundation
-2. Move to `02_computer_vision/` to learn image processing techniques
-3. Continue with `03_nlp/` for text processing capabilities
-4. Explore `04_gans/` and `05_segmentation/` for more specialized applications
-5. Study `06_transformers/` for state-of-the-art architectures
-6. Apply your knowledge in the projects section
-7. Reference the utils as needed throughout your learning journey
+1. Complete the notebooks in `01_basics/` to build a solid foundation through practical code examples
+2. Move to `02_computer_vision/` to learn image processing implementation techniques
+3. Continue with `03_nlp/` for text processing code patterns and solutions
+4. Explore `04_gans/` and `05_segmentation/` for specialized implementation approaches
+5. Study `06_transformers/` for state-of-the-art architectures with working code
+6. Apply your implementation skills in the projects section
+7. Reference the utils as needed throughout your hands-on learning journey
 
 ## 🔧 Prerequisites
 
-- Basic Python programming knowledge
-- Familiarity with machine learning concepts
-- Understanding of calculus and linear algebra basics
+- Intermediate Python programming knowledge
+- Basic familiarity with machine learning concepts
+- Minimal mathematical background required - we focus on implementation rather than derivations
+- Enthusiasm for learning through code examples and hands-on practice
 
 ## 🤝 Contributing
 

@@ -1,5 +1,4 @@
 venv/
-02_computer_vision/
 03_nlp/
 04_gans/
 05_segmentation/
@@ -10,3 +9,4 @@ venv/
 .DS_Store
 
 **/models/**
+**/data/**
