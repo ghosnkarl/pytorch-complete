@@ -14,8 +14,8 @@ By following this course, you will:
 - Build, train, and evaluate neural networks from scratch with minimal math requirements
 - Implement computer vision models for image recognition with practical code examples
 - Create NLP models for text processing with a focus on implementation techniques
-- Design and train generative models including GANs through code-first learning
 - Develop image segmentation solutions with ready-to-use implementations
+- Design and train generative models including GANs through code-first learning
 - Understand and implement transformer architectures with practical applications
 - Complete real-world projects to consolidate your coding skills in deep learning
 
@@ -37,13 +37,13 @@ By following this course, you will:
 
 - Coming soon: Techniques and models for text processing, embeddings, and sequence models
 
-### 04. Generative Adversarial Networks (GANs)
-
-- Coming soon: Implementation and training of GANs for generating realistic data
-
-### 05. Image Segmentation
+### 04. Image Segmentation
 
 - Coming soon: Techniques for semantic and instance segmentation
+
+### 05. Generative Adversarial Networks (GANs)
+
+- Coming soon: Implementation and training of GANs for generating realistic data
 
 ### 06. Transformers
 
@@ -106,7 +106,7 @@ For optimal learning, follow this recommended sequence:
 1. Complete the notebooks in `01_basics/` to build a solid foundation through practical code examples
 2. Move to `02_computer_vision/` to learn image processing implementation techniques
 3. Continue with `03_nlp/` for text processing code patterns and solutions
-4. Explore `04_gans/` and `05_segmentation/` for specialized implementation approaches
+4. Explore `04_segmentation/` and `05_gans/` for specialized implementation approaches
 5. Study `06_transformers/` for state-of-the-art architectures with working code
 6. Apply your implementation skills in the projects section
 7. Reference the utils as needed throughout your hands-on learning journey
