@@ -31,10 +31,16 @@ By following this course, you will:
 - **models/**: Saved PyTorch models, including a linear regression example
 - **05_loss_functions_and_optimizers.ipynb**: Understanding loss functions and optimizers in PyTorch
 - **06_training_and_evaluation.ipynb**: Training and evaluating models in PyTorch
+- **07_gradient_and_autograd.ipynb**: Understanding gradients and the autograd system in PyTorch
+- **08_custom_datasets_and_data_loading.ipynb**: Creating custom datasets and data loaders in PyTorch
 
 ### 02. Computer Vision
 
 - **01_computer_vision.ipynb**: Fundamentals of computer vision with PyTorch and techniques for image processing
+- **02_transfer_learning.ipynb**: Transfer learning techniques for computer vision tasks
+- **03_experiment_tracking.ipynb**: Tracking experiments and results in computer vision projects
+- **04_data_augmentation_and_preprocessing.ipynb**: Techniques for data augmentation and preprocessing in computer vision
+- **05_object_detection_fundamentals.ipynb**: Introduction to object detection, including key concepts and techniques
 
 ### 03. Natural Language Processing
 
