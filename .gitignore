@@ -1,7 +1,7 @@
 venv/
 03_nlp/
-04_gans/
-05_segmentation/
+04_segmentation/
+05_gans/
 06_transformers/
 07_projects/
 08_utils/
@@ -12,3 +12,6 @@ venv/
 **/data/**
 **/logs/**
 **/wandb/**
+
+**/augmentation_examples/**
+**/dummy_images/**

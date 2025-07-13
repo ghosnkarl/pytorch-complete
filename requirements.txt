@@ -11,5 +11,6 @@ requests
 pillow
 tensorboard
 jupyter
-pytorch-gradcam
-wandb
+onnx
+onnxruntime
+torchviz

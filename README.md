@@ -23,11 +23,14 @@ By following this course, you will:
 
 ### 01. Basics
 
+- **00_pytorch_fundamentals.ipynb**: Introduction to PyTorch, tensors, and basic operations
 - **01_tensor_operations.ipynb**: Introduction to PyTorch tensors, operations, and manipulations
 - **02_neural_networks.ipynb**: Neural network theory and implementation fundamentals
 - **03_neural_networks_in_pytorch.ipynb**: Building neural networks using PyTorch's nn module
 - **04_classification.ipynb**: Classification tasks with PyTorch
 - **models/**: Saved PyTorch models, including a linear regression example
+- **05_loss_functions_and_optimizers.ipynb**: Understanding loss functions and optimizers in PyTorch
+- **06_training_and_evaluation.ipynb**: Training and evaluating models in PyTorch
 
 ### 02. Computer Vision
 
@@ -39,11 +42,11 @@ By following this course, you will:
 
 ### 04. Image Segmentation
 
-- Coming soon: Techniques for semantic and instance segmentation
+- **01_image_segmentation_unet.ipynb**: Implementing image segmentation models using PyTorch
 
 ### 05. Generative Adversarial Networks (GANs)
 
-- Coming soon: Implementation and training of GANs for generating realistic data
+- **01_introduction_to_gans.ipynb**: Introduction to GANs, their architecture, and training process
 
 ### 06. Transformers
 
