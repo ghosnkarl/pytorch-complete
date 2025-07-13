@@ -3,8 +3,6 @@
 A structured, code-focused guide for mastering PyTorch, from fundamentals to advanced deep learning applications.  
 Built for developers who prefer learning by doing.
 
----
-
 ## 📚 What’s Inside
 
 **Code-First, Project-Based Curriculum**
@@ -19,8 +17,6 @@ Built for developers who prefer learning by doing.
 We focus on **practical implementations** over theory-heavy explanations.  
 Just enough math to understand the ideas.
 
----
-
 ## 🎯 Learning Outcomes
 
 By following this curriculum, you’ll be able to:
@@ -29,8 +25,6 @@ By following this curriculum, you’ll be able to:
 - Implement image recognition, segmentation, object detection, and generative models
 - Understand and build transformers for NLP and vision
 - Apply PyTorch to real-world projects and deploy models
-
----
 
 ## 🗂️ Repository Structure
 
@@ -52,8 +46,6 @@ By following this curriculum, you’ll be able to:
 └── README.md
 ```
 
----
-
 ## 🚀 Quickstart Guide
 
 ```bash
@@ -68,8 +60,6 @@ pip install -r requirements.txt
 Start exploring notebooks in `01_basics/`.  
 For a complete walkthrough, follow the learning path progression below.
 
----
-
 ## 📊 Learning Path Progression
 
 | Stage                | Folder                | Status         |
@@ -82,8 +72,6 @@ For a complete walkthrough, follow the learning path progression below.
 | Transformers         | `06_transformers/`    | 🔄 Coming Soon |
 | Real-World Projects  | `07_projects/`        | 🔄 Coming Soon |
 
----
-
 ## 💻 Code-First Learning Philosophy
 
 - **Hands-On Code Examples**
@@ -91,16 +79,12 @@ For a complete walkthrough, follow the learning path progression below.
 - **Minimal Math, Maximum Implementation**
 - **Ready-to-Use Patterns**
 
----
-
 ## 🔧 Prerequisites
 
 - Intermediate Python programming knowledge
 - Basic machine learning concepts
 - No deep math knowledge required
 - Enthusiasm for learning through code examples and hands-on practice
-
----
 
 ## 🤝 Contributing
 
@@ -114,12 +98,8 @@ git push origin feature/improvement
 
 Open a Pull Request with your improvements.
 
----
-
 ## 📝 License
 
 Licensed under the MIT License. See the LICENSE file for details.
-
----
 
 > **_Note:_** This repository is continuously updated. Check back regularly for new content!
