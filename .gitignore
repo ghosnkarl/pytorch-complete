@@ -15,3 +15,6 @@ venv/
 
 **/augmentation_examples/**
 **/dummy_images/**
+**/checkpoints/**
+**/experiments/**
+**/plots/**

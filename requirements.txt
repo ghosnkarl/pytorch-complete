@@ -14,3 +14,4 @@ jupyter
 onnx
 onnxruntime
 torchviz
+scikit-image
