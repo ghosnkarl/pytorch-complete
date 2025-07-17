@@ -1,4 +1,4 @@
-# Machine Learning with PyTorch — Comple## 🎯 Learning Outcomes
+# Machine Learning with PyTorch — Complete 🎯 Learning Outcomes
 
 By completing this curriculum, you'll be able to:
 
