@@ -3,7 +3,7 @@
 echo "Setting up the environment..."
 # Create a virtual environment
 python3 -m venv venv
-source myenv/bin/activate
+source venv/bin/activate
 echo "Virtual environment activated."
 
 echo "Installing required packages..."
