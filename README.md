@@ -64,8 +64,8 @@ By following this curriculum, you’ll be able to:
 ├── 01_basics/
 ├── 02_computer_vision/
 ├── 03_nlp/               ← Coming Soon
-├── 04_segmentation/
-├── 05_gans/
+├── 04_segmentation/      ← Coming Soon
+├── 05_gans/              ← Coming Soon
 ├── 06_transformers/      ← Coming Soon
 ├── 07_projects/          ← Coming Soon
 ├── 08_utils/             ← Coming Soon
@@ -96,7 +96,7 @@ For a complete walkthrough, follow the learning path progression below.
 | Stage                | Folder                | Focus Area                                       | Status         |
 | -------------------- | --------------------- | ------------------------------------------------ | -------------- |
 | **Foundations**      | `01_basics/`          | ML fundamentals, PyTorch basics, neural networks | ✅ Complete    |
-| **Computer Vision**  | `02_computer_vision/` | Image classification, CNNs, transfer learning    | 🔄 Coming Soon |
+| **Computer Vision**  | `02_computer_vision/` | Image classification, CNNs, transfer learning    | ✅ Complete    |
 | **Natural Language** | `03_nlp/`             | Text processing, RNNs, attention mechanisms      | 🔄 Coming Soon |
 | **Segmentation**     | `04_segmentation/`    | Pixel-level prediction, U-Net, medical imaging   | 🔄 Coming Soon |
 | **Generative AI**    | `05_gans/`            | GANs, VAEs, creative applications                | 🔄 Coming Soon |
