@@ -39,8 +39,8 @@ Built for developers who prefer learning by doing.
 **Code-First, Project-Based Curriculum**
 
 - ✅ **Tensor Basics → Neural Networks → Autograd**
-- ✅ **Computer Vision (Classification, Detection, Segmentation)**
-- ✅ **Generative Models (GANs)**
+- 🔄 **Computer Vision (Classification, Detection, Segmentation)**
+- 🔄 **Generative Models (GANs)**
 - 🔄 **Natural Language Processing (Coming Soon)**
 - 🔄 **Transformers (Coming Soon)**
 - 🔄 **End-to-End Projects (Coming Soon)**
@@ -96,10 +96,10 @@ For a complete walkthrough, follow the learning path progression below.
 | Stage                | Folder                | Focus Area                                       | Status         |
 | -------------------- | --------------------- | ------------------------------------------------ | -------------- |
 | **Foundations**      | `01_basics/`          | ML fundamentals, PyTorch basics, neural networks | ✅ Complete    |
-| **Computer Vision**  | `02_computer_vision/` | Image classification, CNNs, transfer learning    | ✅ Complete    |
+| **Computer Vision**  | `02_computer_vision/` | Image classification, CNNs, transfer learning    | 🔄 Coming Soon |
 | **Natural Language** | `03_nlp/`             | Text processing, RNNs, attention mechanisms      | 🔄 Coming Soon |
-| **Segmentation**     | `04_segmentation/`    | Pixel-level prediction, U-Net, medical imaging   | ✅ Complete    |
-| **Generative AI**    | `05_gans/`            | GANs, VAEs, creative applications                | ✅ Complete    |
+| **Segmentation**     | `04_segmentation/`    | Pixel-level prediction, U-Net, medical imaging   | 🔄 Coming Soon |
+| **Generative AI**    | `05_gans/`            | GANs, VAEs, creative applications                | 🔄 Coming Soon |
 | **Transformers**     | `06_transformers/`    | Attention, BERT, GPT, Vision Transformers        | 🔄 Coming Soon |
 | **Real Projects**    | `07_projects/`        | End-to-end ML projects with deployment           | 🔄 Coming Soon |
 
